@@ -14,6 +14,8 @@ Searx is a privacy-respecting, hackable metasearch engine.
 
 ## Screenshots
 
+![](https://upload.wikimedia.org/wikipedia/commons/3/35/Screenshot-2017-8-31_searx_me.png)
+
 ## Demo
 
 * [YunoHost demo](https://demo.yunohost.org/searx/)
