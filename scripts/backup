@@ -46,7 +46,8 @@ ynh_backup --src_path="/etc/nginx/conf.d/$domain.d/$app.conf"
 # BACKUP OF THE UWSGI CONFIG
 #=================================================
 
-ynh_backup --src_path="/etc/uwsgi/apps-available/$app.ini"
+ynh_backup --src_path "/etc/uwsgi/apps-available/$app.ini"
+ynh_backup --src_path "/var/log/uwsgi/$app"
 
 #=================================================
 # END OF SCRIPT
